@@ -6,10 +6,10 @@ define('HTTP_SERVER', 'https://github.com/quang2610/cookingstudio');
 define('HTTPS_SERVER', 'https://github.com/quang2610/cookingstudio');
 
 // DIR
-define('DIR_APPLICATION', 'D:/xampp/htdocs/demo/cooking/catalog/');
-define('DIR_SYSTEM', 'D:/xampp/htdocs/demo/cooking/system/');
-define('DIR_IMAGE', 'D:/xampp/htdocs/demo/cooking/image/');
-define('DIR_STORAGE', 'D:/xampp/htdocs/demo/cooking/storage/');
+define('DIR_APPLICATION', 'D:\GITHUB\cookingstudio/catalog/');
+define('DIR_SYSTEM', 'D:\GITHUB\cookingstudio/system/');
+define('DIR_IMAGE', 'D:\GITHUB\cookingstudio/image/');
+define('DIR_STORAGE', 'D:\GITHUB\cookingstudio/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');

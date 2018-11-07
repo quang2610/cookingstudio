@@ -1,18 +1,18 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8080/demo/cooking/admin/');
-define('HTTP_CATALOG', 'http://localhost:8080/demo/cooking/');
+define('HTTP_SERVER', 'https://github.com/quang2610/cookingstudio/admin/');
+define('HTTP_CATALOG', 'https://github.com/quang2610/cookingstudio/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8080/demo/cooking/admin/');
-define('HTTPS_CATALOG', 'http://localhost:8080/demo/cooking/');
+define('HTTPS_SERVER', 'https://github.com/quang2610/cookingstudio/admin/');
+define('HTTPS_CATALOG', 'https://github.com/quang2610/cookingstudio/');
 
 // DIR
-define('DIR_APPLICATION', 'D:/xampp/htdocs/demo/cooking/admin/');
-define('DIR_SYSTEM', 'D:/xampp/htdocs/demo/cooking/system/');
-define('DIR_IMAGE', 'D:/xampp/htdocs/demo/cooking/image/');
-define('DIR_STORAGE', 'D:/xampp/htdocs/demo/cooking/storage/');
-define('DIR_CATALOG', 'D:/xampp/htdocs/demo/cooking/catalog/');
+define('DIR_APPLICATION', 'D:\GITHUB\cookingstudio/admin/');
+define('DIR_SYSTEM', 'D:\GITHUB\cookingstudio/system/');
+define('DIR_IMAGE', 'D:\GITHUB\cookingstudio/image/');
+define('DIR_STORAGE', 'D:\GITHUB\cookingstudio/storage/');
+define('DIR_CATALOG', 'D:\GITHUB\cookingstudio/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
