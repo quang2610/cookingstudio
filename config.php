@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8080/demo/cooking/');
+define('HTTP_SERVER', 'https://github.com/quang2610/cookingstudio');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8080/demo/cooking/');
+define('HTTPS_SERVER', 'https://github.com/quang2610/cookingstudio');
 
 // DIR
 define('DIR_APPLICATION', 'D:/xampp/htdocs/demo/cooking/catalog/');
