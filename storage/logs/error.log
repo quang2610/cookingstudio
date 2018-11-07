@@ -1,0 +1,7 @@
+2018-10-30 3:17:20 - PHP Warning:  unlink(D:/xampp/htdocs/demo/coocking/storage/cache/cache.product.latest.2.0.1.10.1540869139): No such file or directory in D:\xampp\htdocs\demo\coocking\system\library\cache\file.php on line 17
+2018-11-06 3:36:07 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cooking' in D:\xampp\htdocs\demo\cooking\system\library\db\mysqli.php on line 7
+2018-11-06 3:36:07 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\demo\cooking\system\library\db\mysqli.php on line 10
+2018-11-06 3:36:07 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\demo\cooking\system\library\db\mysqli.php on line 10
+2018-11-06 3:36:49 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cooking' in D:\xampp\htdocs\demo\cooking\system\library\db\mysqli.php on line 7
+2018-11-06 3:36:49 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\demo\cooking\system\library\db\mysqli.php on line 10
+2018-11-06 3:36:49 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in D:\xampp\htdocs\demo\cooking\system\library\db\mysqli.php on line 10
